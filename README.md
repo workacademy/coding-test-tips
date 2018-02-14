@@ -8,7 +8,7 @@ You've got a limited amount of time to commit to coding in order to convince the
 Make sure you have a nice clean Git history with [meaningful commit messages](https://chris.beams.io/posts/git-commit/).  Definitely don't send a zip or single commit repo!
 
 ## Swiftlint/SwiftFormat or similar are very helpful
-If you use a linter/formatter and provide the config file to the reviewer (and point out that you used one) then there can't be any issues about tabs or spaces!  More info on [Swiftlint](https://github.com/realm/SwiftLint) and [SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
+If you use a linter/formatter and provide the config file to the reviewer (and point out that you used one) then there can't be any issues about tabs or spaces!  More info on [SwiftLint](https://github.com/realm/SwiftLint) and [SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
 
 ## Just 1 or 2 unit tests go a long way
 You don't need to write 100 tests, but just writing a couple shows that you can and makes a really good impression!  Again, use your time to great effect.
